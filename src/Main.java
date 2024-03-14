@@ -102,7 +102,7 @@ public class Main {
                     break;
                 }
                 case 5: {
-                    System.out.println("Você abandonou seu tamagotchi, igual meu pai fez comigo 😥");
+                    System.out.println("Você abandonou seu tamagotchi 😥");
                     meuTamagotchi.matarTamagotchi();
                     break;
                 }
